@@ -1,6 +1,6 @@
 # GCN Implementation
 
-## Package Requirement
+## Dependencies
 - torch
 - numpy
 - scipy
