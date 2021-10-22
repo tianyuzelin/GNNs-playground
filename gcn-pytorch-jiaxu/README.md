@@ -1,9 +1,10 @@
-# GCN Implementation by Jiaxu
+# GCN Implementation
 
 ## Package Requirement
+- torch
+- numpy
+- scipy
 
-## Manual
-
-## Notes
+## Manual & Notes
 
 ## Reference
