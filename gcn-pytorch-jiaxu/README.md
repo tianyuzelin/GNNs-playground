@@ -8,6 +8,7 @@
 ## Manual & Notes
 ![GCN](figure.png)
 
+
 ### Graph Convolution Definition
 
 ### Model Definition
