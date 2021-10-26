@@ -6,6 +6,7 @@
 - scipy
 
 ## Manual & Notes
+![GCN](figure.png)
 
 ### Graph Convolution Definition
 
