@@ -4,6 +4,42 @@
 ![GCN](figure.png)
 ### Data Preprocessing
 
+`idx_features_labels` is used to store and read the contents of the `cora/cora.content` file. The method `genfromtxt()` in numpy is to quickly convert the text content saved in txt to an array in numpy. The format of the file data is id-features-labels, so respectively `idx_features_labels[:, 0]` (id), `idx_features_labels[:, 1:-1]` (features), and `idx_features_labels[:, -1]` (labels).
+
+Here we give a preview of `idx_features_labels` array:
+```
+[['31336' '0' '0' ... '0' '0' 'Neural_Networks']
+ ['1061127' '0' '0' ... '0' '0' 'Rule_Learning']
+ ['1106406' '0' '0' ... '0' '0' 'Reinforcement_Learning']
+ ...
+ ['1128978' '0' '0' ... '0' '0' 'Genetic_Algorithms']
+ ['117328' '0' '0' ... '0' '0' 'Case_Based']
+ ['24043' '0' '0' ... '0' '0' 'Neural_Networks']]
+```
+
+The labels (i.e. the last column) is encoded into one-hot vector fashion. Since the nodes in the file are not in order, a hash table `idx_map` with number `0-(node_size - 1)` is created, and each item in the hash table is `id: number`, i.e., the node `id` corresponds to `number`.
+
+`edges_unordered` is the edge table file and is an array of `(edge_num, 2)`, with each row representing the idx of two vertces of an edge. We give a preview:
+```
+[[     35    1033]
+ [     35  103482]
+ [     35  103515]
+ ...
+ [ 853118 1140289]
+ [ 853155  853118]
+ [ 954315 1155073]]
+```
+Since ids of the endpoints are stored in `edges_unordered`, and the ids of each item should be replaced with a number, we use idx in `idx_map` as the key to find the number of the corresponding node, reshape it into an array with the same shape as `edges_unordered`, giving `edges`:
+```
+[[ 163  402]
+ [ 163  659]
+ [ 163 1696]
+ ...
+ [1887 2258]
+ [1902 1887]
+ [ 837 1686]]
+```
+The `normalize()` method is used to normalize the feature matrix `features` and the adjacency matrix `adj`, respectively. First, we sum up each row to get `rowsum`; find the reciprocal to get `r_inv`; if a row is all 0, `r_inv` will be equal to INF, and `r_inv` of these rows will be set to 0; construct a diagonal matrix with diagonal elements of `r_inv`; we use the **dot product** of the diagonal matrix and the original matrix to perform normalization, i.e. each element of the original matrix will be multiplied by the corresponding `r_inv`.
 
 ### Graph Convolution Definition
 
