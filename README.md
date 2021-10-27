@@ -8,7 +8,7 @@ I will be consistently updating this repository.
 
 - `2021-10-27 dgi-pytorch-jiaxu` Deep Graph Infomax implementation, similar to https://arxiv.org/abs/1809.10341.
 
-## Dataset
+## DataSets
 
 - `CORA` https://relational.fit.cvut.cz/dataset/CORA
 
