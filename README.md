@@ -26,6 +26,7 @@ Comming Soon...
 author = {Liu, Jiaxu},
 month = {10},
 title = {{Collection of Graph Neural Networks}},
+url = {https://github.com/ljxw88/GNNs-Implementation},
 year = {2021}
 }
 ```
