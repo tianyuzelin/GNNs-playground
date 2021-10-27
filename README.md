@@ -2,7 +2,7 @@
 
 ## Statement
 
-Hey there! This will be my repo implementing GRAPH related DL models, with some tutorials and notes! **I will be consistently updating this repository**.
+Hey there! This will be my repo implementing GRAPH related DL models, with some tutorials and notes!! **I will be consistently updating this repository**.
 
 ## Models
 
@@ -17,3 +17,7 @@ Hey there! This will be my repo implementing GRAPH related DL models, with some 
 ### Download Script
 
 Comming Soon...
+
+## Miscellaneous
+
+## To Cite This Repo
