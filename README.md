@@ -1,15 +1,13 @@
 <div align="center">
-<a href="https://www.anu.edu.au/" target="_blank">
-   <img src="src/img/logo.svg" alt="ANU logo">
+<a href="" target="_blank">
+   <img src="logo.svg" alt="repo logo" style="width:10%">
 </a>
 
-# [🚀ONGOING] Collection of Graph Neural Networks
+# Collection of Graph Neural Networks
 
-_An in-browser video annotation tool developed by [ANU CVML](https://github.com/anucvml)._
+_Hey there! This will be my repo implementing GRAPH related DL models, with some tutorials and notes!! **I will be consistently updating this repository**. Have fun!_
 
-## Statement
-
-Hey there! This will be my repo implementing GRAPH related DL models, with some tutorials and notes!! **I will be consistently updating this repository**.
+</div>
 
 ## Models
 
