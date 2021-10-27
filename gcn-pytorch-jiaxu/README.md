@@ -65,3 +65,7 @@ More details: It sets the mode to train. You can call either `model.eval()` or `
 torch, numpy, scipy
 
 ## Reference
+
+1. GitHub repo, <a href="https://github.com/tkipf/pygcn">Graph Convolutional Networks in PyTorch</a>
+2. Thomas Kipf, blog, <a href="https://tkipf.github.io/graph-convolutional-networks/">Graph Convolutional Networks (2016)</a>
+3. Paper, [Semi-Supervised Classification with Graph Convolutional Networks](https://arxiv.org/abs/1609.02907)
