@@ -1,4 +1,11 @@
+<div align="center">
+<a href="https://www.anu.edu.au/" target="_blank">
+   <img src="src/img/logo.svg" alt="ANU logo">
+</a>
+
 # [🚀ONGOING] Collection of Graph Neural Networks
+
+_An in-browser video annotation tool developed by [ANU CVML](https://github.com/anucvml)._
 
 ## Statement
 
