@@ -5,6 +5,7 @@ authors:
     given-names: Jiaxu
     orcid: https://orcid.org/0000-0001-8737-3106
 title: "Collection of Graph Neural Networks"
-# version: 1.0.0
-# doi: 10.5281/zenodo.1234
+# version: 
+# doi: 
 date-released: 2021-10-22
+url: "https://github.com/ljxw88/GNNs-Implementation"

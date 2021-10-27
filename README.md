@@ -24,7 +24,6 @@ Comming Soon...
 ```
 @software{Liu_Collection_of_Graph_2021,
 author = {Liu, Jiaxu},
-doi = {10.5281/zenodo.1234},
 month = {10},
 title = {{Collection of Graph Neural Networks}},
 year = {2021}
