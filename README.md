@@ -20,4 +20,4 @@ Comming Soon...
 
 ## Miscellaneous
 
-## To Cite This Repo
+## Cite
