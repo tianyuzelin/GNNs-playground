@@ -20,7 +20,7 @@ Comming Soon...
 
 ## Miscellaneous
 
-Comming Soon...
+None
 
 ## Cite
 ```
