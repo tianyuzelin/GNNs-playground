@@ -1,6 +1,6 @@
 # [🚀ONGOING] Collection of Graph Neural Networks
 
-I will be consistently updating this repository.
+**I will be consistently updating this repository**.
 
 ## Models
 
