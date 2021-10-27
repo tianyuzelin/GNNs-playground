@@ -1,5 +1,7 @@
 # [🚀ONGOING] Collection of Graph Neural Networks
 
+I will be consistently updating this repository.
+
 ## Models
 
 - `2021-10-22 gcn-pytorch-jiaxu` Graph Convolutional Network implementation, similar to https://arxiv.org/abs/1609.02907.
@@ -12,4 +14,4 @@
 
 ### Download Script
 
-tbd
+Comming Soon
