@@ -1,6 +1,8 @@
 # [🚀ONGOING] Collection of Graph Neural Networks
 
-**I will be consistently updating this repository**.
+## Statement
+
+Hey there! This will be my repo implementing GRAPH related DL models, with some tutorials and notes! **I will be consistently updating this repository**.
 
 ## Models
 
@@ -14,4 +16,4 @@
 
 ### Download Script
 
-Comming Soon
+Comming Soon...
