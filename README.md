@@ -5,7 +5,7 @@
 
 # Collection of Graph Neural Networks
 
-_Hey there! This will be my repo implementing GRAPH related DL models, with some tutorials and notes! **I will be consistently updating this repository**. Have fun!_
+_Hey there! This will be my repo implementing GRAPH related DL models, with some tutorials and notes! **I will consistently update this repository**. Have fun!_
 
 </div>
 
