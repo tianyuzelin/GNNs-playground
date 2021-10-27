@@ -1,4 +1,4 @@
-# GCN Implementation
+# Graph Convolutional Network (GCN) Implementation
 
 ## Manual & Notes
 ![GCN](figure.png)
