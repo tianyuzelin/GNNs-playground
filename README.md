@@ -1,6 +1,6 @@
 <div align="center">
 <a href="" target="_blank">
-   <img src="logo.svg" alt="repo logo" style="width:10%">
+   <img src="logo.png" alt="repo logo" style="width:10%">
 </a>
 
 # Collection of Graph Neural Networks
