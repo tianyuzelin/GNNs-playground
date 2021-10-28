@@ -15,7 +15,7 @@ _Hey there! This will be my repo implementing GRAPH related DL models, with some
   
   | DataSet  |       Type       |      Task      | Train/Test Acc. | Complete |
   | :------: | :--------------: | :------------: | :-------------: | :------: |
-  |   Cora   | Citation network | node classifi. |                 |    ✔     |
+  |   Cora   | Citation network | node classifi. |     84/81.5     |    ✔     |
   | Citeseer | Citation network | node classifi. |                 |    ❌     |
   |  Pubmed  | Citation network | node classifi. |                 |    ❌     |
 
