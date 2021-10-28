@@ -37,3 +37,6 @@ url = {https://github.com/ljxw88/GNNs-Implementation},
 year = {2021}
 }
 ```
+
+## Liscense
+GPL-3.0
