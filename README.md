@@ -11,7 +11,14 @@ _Hey there! This will be my repo implementing GRAPH related DL models, with some
 
 ## Models
 
-- `2021-10-22 GCN-PyTorch` [[Folder](./GCN-PyTorch)] Graph Convolutional Network (GCN) implementation in PyTorch, similar to https://arxiv.org/abs/1609.02907. ✔
+- `2021-10-22 GCN-PyTorch` [[Folder](./GCN-PyTorch)] Graph Convolutional Network (GCN) implementation in PyTorch, similar to https://arxiv.org/abs/1609.02907. 
+  
+  | DataSet  |       Type       |      Task      | Train/Test Acc. | Complete |
+  | :------: | :--------------: | :------------: | :-------------: | :------: |
+  |   Cora   | Citation network | node classifi. |                 |    ✔     |
+  | Citeseer | Citation network | node classifi. |                 |    ❌     |
+  |  Pubmed  | Citation network | node classifi. |                 |    ❌     |
+
 
 - `2021-10-27 DGI-PyTorch` [[Folder](./DGI-PyTorch)] Deep Graph Infomax (DGI) implementation in PyTorch, similar to https://arxiv.org/abs/1809.10341. ❌
 
