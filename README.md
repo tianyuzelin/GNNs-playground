@@ -28,12 +28,7 @@ _Hey there! This will be my repo implementing GRAPH related DL models, with some
   |  Pubmed  | Citation network | node classifi. |                 |    ❌     |
 
 ## DataSets
-
-- `CORA` https://relational.fit.cvut.cz/dataset/CORA
-
-### Download Script
-
-Comming Soon...
+- `2021-10-28 update` We decided to use Open Graph Benchmark (OGB) as the only benchmarking protal for this project: [[GitHub](https://github.com/snap-stanford/ogb)], [[HomePage](https://ogb.stanford.edu/)]. We are working on transfering the project dataset to the OGB dataset.
 
 ## Miscellaneous
 
