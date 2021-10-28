@@ -11,12 +11,12 @@ _Hey there! This will be my repo implementing GRAPH related DL models, with some
 
 ## Models To-Do Lists
 
-- `2021-10-22 GCN-PyTorch` Graph Convolutional Network (GCN) in PyTorch, similar to https://arxiv.org/abs/1609.02907. 🚀
+- `2021-10-22 GCN-PyTorch` Graph Convolutional Network (GCN) in PyTorch, similar to [[paper](https://arxiv.org/abs/1609.02907)]. 🚀
 
 
-- `2021-10-27 DGI-PyTorch` Deep Graph Infomax (DGI) in PyTorch, similar to https://arxiv.org/abs/1809.10341. ❌
+- `2021-10-27 DGI-PyTorch` Deep Graph Infomax (DGI) in PyTorch, similar to [[paper](https://arxiv.org/abs/1809.10341)]. ❌
 
-- `2021-10-28 GAE-PyTorch` Graph Auto-Encoder (GAE) in PyTorch, similar to https://arxiv.org/abs/1611.07308. ❌
+- `2021-10-28 GAE-PyTorch` Graph Auto-Encoder (GAE) in PyTorch, similar to [[paper](https://arxiv.org/abs/1611.07308)]. ❌
 
 ## Reference Models
 
