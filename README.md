@@ -9,20 +9,23 @@ _Hey there! This will be my repo implementing GRAPH related DL models, with some
 
 </div>
 
-## Models
+## Models To-Do Lists
 
-- `2021-10-22 GCN-PyTorch` [[Folder](./GCN-PyTorch)] Graph Convolutional Network (GCN) implementation in PyTorch, similar to https://arxiv.org/abs/1609.02907. 
-  
+- `2021-10-22 GCN-PyTorch` Graph Convolutional Network (GCN) in PyTorch, similar to https://arxiv.org/abs/1609.02907. 🚀
+
+
+- `2021-10-27 DGI-PyTorch` Deep Graph Infomax (DGI) in PyTorch, similar to https://arxiv.org/abs/1809.10341. ❌
+
+- `2021-10-28 GAE-PyTorch` Graph Auto-Encoder (GAE) in PyTorch, similar to https://arxiv.org/abs/1611.07308. ❌
+
+## Reference Models
+
+- `2021-10-22 GCN-tkipf` Graph Convolutional Networks in PyTorch (Thomas Kipf): https://github.com/tkipf/pygcn
   | DataSet  |       Type       |      Task      | Train/Test Acc. | Complete |
   | :------: | :--------------: | :------------: | :-------------: | :------: |
   |   Cora   | Citation network | node classifi. |     84/81.5     |    ✔     |
   | Citeseer | Citation network | node classifi. |                 |    ❌     |
   |  Pubmed  | Citation network | node classifi. |                 |    ❌     |
-
-
-- `2021-10-27 DGI-PyTorch` [[Folder](./DGI-PyTorch)] Deep Graph Infomax (DGI) implementation in PyTorch, similar to https://arxiv.org/abs/1809.10341. ❌
-
-- `2021-10-28 GAE-PyTorch` [[Folder](./GAE-PyTorch)] Graph Auto-Encoder (GAE) implementation in PyTorch, similar to https://arxiv.org/abs/1611.07308. ❌
 
 ## DataSets
 
