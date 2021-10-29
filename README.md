@@ -15,7 +15,7 @@ We recommend using jupyterlab for running and debugging. Most models have the co
 ```
 conda env create -f src/environment_droplet.yml
 ```
-***Note that** we maintain and update our environment consistently, so do stick to the latest one :-)
+***Note that** we maintain and update our environment droplet consistently, so do stick to the latest one :-)
 
 ## Models To-Do Lists
 
