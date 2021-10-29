@@ -9,6 +9,14 @@ _Hey there! This will be my repo implementing GRAPH related DL models, with some
 
 </div>
 
+## Environment
+
+We recommend using jupyterlab for running and debugging. Most models have the complex package dependencies, we strongly recommend using **Anaconda** for package management and deployment. You can use the following command to create a conda environment similar to ours:
+```
+conda env create -f src/environment_droplet.yml
+```
+***Note that** we maintain and update our environment consistently, so do stick to the latest one :-)
+
 ## Models To-Do Lists
 
 - `2021-10-22 GCN-PyTorch` Graph Convolutional Network (GCN) in PyTorch, similar to [[paper](https://arxiv.org/abs/1609.02907)]. 🚀
