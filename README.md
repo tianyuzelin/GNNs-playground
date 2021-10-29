@@ -28,7 +28,7 @@ conda env create -f src/environment_droplet.yml
 
 ## Reference Models
 
-- `2021-10-22 GCN-tkipf` Graph Convolutional Networks in PyTorch (Thomas Kipf) [[repo](https://github.com/tkipf/pygcn)]. Check out the [[code folder](./GCN-tkipf)] in this repo with notes and tutorials.
+- `2021-10-22 GCN-tkipf` Graph Convolutional Networks in PyTorch (Thomas Kipf) [[repo](https://github.com/tkipf/pygcn)]. Check out the [[code folder](./GCN-tkipf)] with *Readme* in this repo for notes and tutorials.
 
 ## DataSets
 - `2021-10-28 update` We decide to use Open Graph Benchmark (OGB) as the only benchmarking protal for this project: [[GitHub](https://github.com/snap-stanford/ogb)], [[HomePage](https://ogb.stanford.edu/)]. We are working on transfering the project dataset to the OGB dataset.
