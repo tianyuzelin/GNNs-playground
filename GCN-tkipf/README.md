@@ -1,5 +1,10 @@
 # Graph Convolutional Network (GCN) Implementation
 
+  | DataSet  |       Type       |      Task      | Train/Test Acc. | Complete |
+  | :------: | :--------------: | :------------: | :-------------: | :------: |
+  |   Cora   | Citation network | node classifi. |     84/81.5     |    ✔     |
+  | Citeseer | Citation network | node classifi. |                 |    ❌     |
+  |  Pubmed  | Citation network | node classifi. |                 |    ❌     |
 ## Manual & Notes
 ![GCN](figure.png)
 ### Data Preprocessing
