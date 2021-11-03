@@ -39,10 +39,10 @@ None
 
 ## Cite
 ```
-@software{Liu_Collection_of_Graph_2021,
+@software{Liu_Playground_of_Graph_2021,
 author = {Liu, Jiaxu},
 month = {10},
-title = {{Collection of Graph Neural Networks}},
+title = {{Playground of Graph Neural Networks}},
 url = {https://github.com/ljxw88/GNNs-Implementation},
 year = {2021}
 }
