@@ -3,9 +3,9 @@
    <img src="src/image/logo.png" alt="repo logo" style="width:10%">
 </a>
 
-# Collection of Graph Neural Networks
+# Playground of Graph Neural Networks
 
-_Hey there! This will be my repo implementing GRAPH related DL models, with some tutorials and notes! **I will consistently update this repository**. Have fun!_
+_Hey there! This will be my repo implementing/collecting GRAPH related DL models, with some tutorials and notes! **I will consistently update this repository**. Have fun!_
 
 </div>
 
