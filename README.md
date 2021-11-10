@@ -9,6 +9,9 @@ _Hey there! This will be my repo implementing/collecting GRAPH related DL models
 
 </div>
 
+## GOAL THIS WEEK
+- Implement DGI under the framework of pyg and test on obg. GO GO GO
+
 ## Environment
 
 We recommend using jupyterlab for running and debugging. Most models have the complex package dependencies, we strongly recommend using **Anaconda** for package management and deployment. You can use the following command to create a conda environment similar to ours:
