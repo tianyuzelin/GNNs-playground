@@ -1,5 +1,7 @@
 import torch
 import torch.nn as nn
+import torch_geometric.transforms as T
+from torch_geometric.nn import GCNConv
 
 class GCN(nn.Module):
     def __init__(self, in_ft, out_ft, act, bias=True):
