@@ -9,8 +9,6 @@ _Hey there! This will be my repo implementing/collecting GRAPH related DL models
 
 </div>
 
-## GOAL THIS WEEK
-- Implement DGI under the framework of pyg and test on obg. GO GO GO
 
 ## Environment
 
